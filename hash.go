@@ -1,4 +1,4 @@
-package github.com/4zv4l/myhash
+package myhash
 
 import "fmt"
 
